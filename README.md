@@ -82,22 +82,6 @@ A backend API project focused on clean RESTful design and backend development pr
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alizade-makui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alizade-makui&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🎯 What I'm Focused On
 
 - Building robust **Spring Boot** services
@@ -115,11 +99,10 @@ A backend API project focused on clean RESTful design and backend development pr
   <a href="https://github.com/alizade-makui">
     <img src="https://img.shields.io/badge/GitHub-alizade--makui-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/alizade-makui/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Alizade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
-<a href="https://www.linkedin.com/in/alizade-makui/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Alizade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 ---
 
